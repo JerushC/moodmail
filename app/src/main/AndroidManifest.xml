@@ -7,6 +7,7 @@
     <application
         android:name=".MoodMailApp"
         android:label="MoodMail"
+        android:icon="@mipmap/ic_launcher"
         android:allowBackup="false">
         <activity
             android:name=".MainActivity"
